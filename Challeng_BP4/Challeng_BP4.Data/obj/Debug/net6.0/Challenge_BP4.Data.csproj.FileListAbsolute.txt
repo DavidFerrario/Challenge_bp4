@@ -1,0 +1,15 @@
+E:\Challeng_BP4\Challeng_BP4\Challeng_BP4.Data\bin\Debug\net6.0\Challenge_BP4.Data.deps.json
+E:\Challeng_BP4\Challeng_BP4\Challeng_BP4.Data\bin\Debug\net6.0\Challenge_BP4.Data.dll
+E:\Challeng_BP4\Challeng_BP4\Challeng_BP4.Data\bin\Debug\net6.0\Challenge_BP4.Data.pdb
+E:\Challeng_BP4\Challeng_BP4\Challeng_BP4.Data\bin\Debug\net6.0\Challenge_BP4.Model.dll
+E:\Challeng_BP4\Challeng_BP4\Challeng_BP4.Data\bin\Debug\net6.0\Challenge_BP4.Model.pdb
+E:\Challeng_BP4\Challeng_BP4\Challeng_BP4.Data\obj\Debug\net6.0\Challenge_BP4.Data.csproj.AssemblyReference.cache
+E:\Challeng_BP4\Challeng_BP4\Challeng_BP4.Data\obj\Debug\net6.0\Challenge_BP4.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Challeng_BP4\Challeng_BP4\Challeng_BP4.Data\obj\Debug\net6.0\Challenge_BP4.Data.AssemblyInfoInputs.cache
+E:\Challeng_BP4\Challeng_BP4\Challeng_BP4.Data\obj\Debug\net6.0\Challenge_BP4.Data.AssemblyInfo.cs
+E:\Challeng_BP4\Challeng_BP4\Challeng_BP4.Data\obj\Debug\net6.0\Challenge_BP4.Data.csproj.CoreCompileInputs.cache
+E:\Challeng_BP4\Challeng_BP4\Challeng_BP4.Data\obj\Debug\net6.0\Challenge_BP4.Data.csproj.CopyComplete
+E:\Challeng_BP4\Challeng_BP4\Challeng_BP4.Data\obj\Debug\net6.0\Challenge_BP4.Data.dll
+E:\Challeng_BP4\Challeng_BP4\Challeng_BP4.Data\obj\Debug\net6.0\refint\Challenge_BP4.Data.dll
+E:\Challeng_BP4\Challeng_BP4\Challeng_BP4.Data\obj\Debug\net6.0\Challenge_BP4.Data.pdb
+E:\Challeng_BP4\Challeng_BP4\Challeng_BP4.Data\obj\Debug\net6.0\ref\Challenge_BP4.Data.dll

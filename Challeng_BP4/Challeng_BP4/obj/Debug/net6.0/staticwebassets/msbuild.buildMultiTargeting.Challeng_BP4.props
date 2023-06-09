@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Challeng_BP4.props" />
+</Project>
